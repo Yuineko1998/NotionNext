@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: '郑小双', // 作者
   BIO: '千唤不一回，愿同尘与灰', // 作者简介
-  LINK: '', // 网站地址
+  LINK: 'https://mud-buffer-24e.notion.site/a3235a17dffe41c4b11df8d4b6a71f6b?v=ba87cc2d5122428eb2812bbdc91e96a9', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '02ab3b8678004aa69e9e415905ef32a5', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
